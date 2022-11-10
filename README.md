@@ -1,43 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?color=timeGradient&height=250&type=waving&text=Hey%20There%20,I'm%20prasanna%20Ganesh&fontSize=50&fontColor=060207&fontAlignY=35&desc=Datascience%20Professional&descAlignY=60&descAlign=50)
-  
-  
-  - Hi, I am Prasanna Ganesh K from Trichy, India. 
-  - Passionate Data Scientist
-  - Currently pursuing IIT Certified Master Data Science program
-  - Working on Machine Learning Algorithm projects
-  
-  <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="100" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="80" height="50"/>
-  
-  <img src="https://user-images.githubusercontent.com/108978683/199270835-17e06887-7071-4dc8-b7e1-5a40bda8e641.svg" alt="matplotlib" width="100" height="50"/>
-  
-  <img src="https://user-images.githubusercontent.com/108978683/199273158-387d07eb-c846-4b53-871c-9dbb457e87ab.svg" alt="sklearn" width="80" height="50"/>
-    
-  <img src="https://user-images.githubusercontent.com/108978683/199274547-4bca3d21-d63d-4670-87c6-2d8826c40002.png" alt="nltk" width="70" height="50"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="50" />
-          
-   
- 
-   </p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/bd/e9/7a/bde97a2bb426f625fc9810ab662b74b3.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshprasannamax&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshprasannamax" /> </p>
+
+- 🔭 I’m currently working on **Machine Learning Projects**
+
+- 🌱 I’m currently pursuing **IIT Certified Master Data Science program**
+
+- 🤝 I’m Working on **Machine Learning Algorithm projects**
+
+- 💬 Ask me about **Python Developing , Machine Learning Techniques,**
+
+- 📫 How to reach me **Ganeshprasannamax@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prasanna-ganesh-k-978796230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prasanna-ganesh-k-978796230/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20404633/ganesh-prasanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20404633/ganesh-prasanna" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/ganeshprasanna99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ganeshprasanna99" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100006165797840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006165797840" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ganesh_prasanna_max/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ganesh_prasanna_max/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/XUSx6R6JD9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/XUSx6R6JD9" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+</p>
   
   ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving)
           
 
 
 <!--
-**prasanna Ganesh/prasanna Ganesh ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently Seeking for ... Data Analysis or Python Developer
-- 🌱 I’m currently learning ...Machine learning & Data Visualization 
-- 👯 I’m looking to collaborate on ...Data Analysis 
-- 🤔 I’m looking for help with ...MongoDB
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
--->
