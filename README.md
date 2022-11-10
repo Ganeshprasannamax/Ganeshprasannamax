@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=timeGradient&height=250&type=waving&text=Hey%20There%20,I'm%20prasanna%20Ganesh&fontSize=50&fontColor=060207&fontAlignY=35&desc=Datascience%20Professional&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?color=timeGradient&height=250&type=waving&text=Hey%20There%20,I'm%20Prasanna%20Ganesh&fontSize=40&fontColor=060207&fontAlignY=35&desc=Datascience%20Professional&descAlignY=60&descAlign=50)
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/bd/e9/7a/bde97a2bb426f625fc9810ab662b74b3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshprasannamax&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshprasannamax" /> </p>
 
