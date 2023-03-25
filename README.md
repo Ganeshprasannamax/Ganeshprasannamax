@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m Certified  **Data Scientist & Python Developer **
+- 🌱 I’m Certified  **Data Scientist & Python Developer**
 
 - 🤝 I’m Working on **Machine Learning Algorithm projects**
 
